@@ -2,3 +2,6 @@ title: Sweeperbox Legal
 description: Privacy policy, terms of service, and support for the Sweeperbox iOS app.
 theme: jekyll-theme-cayman
 permalink: /:basename
+
+include:
+  - "google*.html"
